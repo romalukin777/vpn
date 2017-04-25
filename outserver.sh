@@ -1,6 +1,6 @@
 #!/bin/bash
 # 3 сервер 
-clientip="85.93.91.107"
+clientip="ENTER PREV SERVER IP"
 
 # Обновляем и ставим необходимые пакеты
 
