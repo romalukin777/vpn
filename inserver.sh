@@ -1,8 +1,8 @@
 #!/bin/bash
 # 1 сервер 
-localip="85.93.91.107"
+localip="ENTER LOCAL IP"
 clientip=""
-nextserverip="109.236.81.30"
+nextserverip="ENTER NEXT SERVER IP"
 
 # Обновляем и ставим необходимые пакеты
 
