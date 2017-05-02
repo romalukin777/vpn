@@ -1,6 +1,7 @@
 #!/bin/bash
 # 3 сервер 
-clientip="ENTER PREV SERVER IP"
+echo "ENTER CLIENT (PREV SERVER) IP: "
+read clientip
 
 # Обновляем и ставим необходимые пакеты
 
