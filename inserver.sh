@@ -1,8 +1,9 @@
 #!/bin/bash
 # 1 сервер 
-localip="ENTER LOCAL IP"
-clientip=""
-nextserverip="ENTER NEXT SERVER IP"
+echo "ENTER LOCAL IP: "
+read localip
+echo "ENTER NEXT SERVER IP: "
+read nextserverip
 
 # Обновляем и ставим необходимые пакеты
 
